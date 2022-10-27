@@ -6,7 +6,7 @@ s.bgcolor("black")
 t.penup()
 t.goto(-50,60)
 t.pendown()
-#hakom next code 
+#abdelhakimdev01 next code 
 t.color("#00adef")
 t.begin_fill()
 t.goto(100,100)
